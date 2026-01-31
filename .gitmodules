@@ -1,0 +1,3 @@
+[submodule "vendor/mountain-urbanization"]
+	path = vendor/mountain-urbanization
+	url = git@github.com:Vicky-hm/Mountain-urbanization.git
